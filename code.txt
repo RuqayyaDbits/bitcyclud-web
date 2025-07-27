@@ -1,0 +1,49 @@
+<script setup>
+import { ref, onMounted } from 'vue'
+import axios from 'axios'
+const onlineUserCount = ref(0)
+onMounted(async () => {
+  try {
+    const response = await axios.post('https://new-api.bitcy.club/graphql', {
+      query: `
+        query OnlineUsers {
+          onlineUsers {
+            id
+          }
+        }
+      `
+    })
+    onlineUserCount.value = response.data.data.onlineUsers.length
+  } catch (error) {
+    console.error('Error fetching online users:', error)
+  }
+})
+</script>
+<template>
+  <div>Online Users: {{ onlineUserCount }}</div>
+</template>
+
+
+
+<script setup>
+import { ref, onMounted } from 'vue'
+import axios from 'axios'
+const totalUserCount = ref(0)
+onMounted(async () => {
+  try {
+    const response = await axios.post('https://new-api.bitcy.club/graphql', {
+      query: `
+        query AllUsersCountQuery {
+          allUsersCountQuery
+        }
+      `
+    })
+    totalUserCount.value = response.data.data.allUsersCountQuery
+  } catch (error) {
+    console.error('Error fetching total user count:', error)
+  }
+})
+</script>
+<template>
+  <div>Total Users: {{ totalUserCount }}</div>
+</template>
