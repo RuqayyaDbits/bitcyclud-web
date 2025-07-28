@@ -2474,7 +2474,7 @@
               activeNav === 'home'
                 ? 'text-[#2A2A2A] dark:text-white'
                 : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
-            ]" @click.prevent="openPrivacyModel">Privacy Policy</a>
+            ]" @click.prevent="openPrivacyModel">About Us</a>
           </li>
           <li>
             <a href="#" class="transition-colors" :class="[
