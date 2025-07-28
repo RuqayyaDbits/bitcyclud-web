@@ -74,7 +74,7 @@
   class="transition-colors"
   @click="activeNav = 'vision'"
   :class="[
-    activeNav === 'vision'
+    activeNav === 'vision2'
       ? 'text-[#2A2A2A] dark:text-white'
       : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
   ]"
@@ -2499,41 +2499,55 @@
 
       </div>
     </footer>
-    <div v-if="showModal"
-      class="fixed inset-0 bg-[#2A2A2A] bg-opacity-50 flex items-center justify-center z-50 transition-all">
-      <!-- MODAL CONTENT -->
-      <div
-        class="bg-white dark:bg-[#1F1F1F] rounded-2xl p-6 w-full max-w-lg shadow-xl transform transition-all scale-100">
-        <h2 class="text-3xl font-medium text-gray-800 dark:text-white mb-4 text-center font-poppins">Contact Us</h2>
+   <div v-if="showModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4 transition-all duration-300">
+  <!-- MODAL CONTENT -->
+  <div class="bg-white dark:bg-[#1F1F1F] rounded-xl p-6 w-full max-w-md shadow-2xl transform transition-all duration-300 scale-100 border border-orange-100 dark:border-gray-700">
+    <!-- Close Button -->
+    <button @click="closeModal" class="absolute top-4 right-4 text-gray-500 hover:text-[#F49420] transition-colors duration-200">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-6 w-6">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
 
-        <!-- Form -->
-        <form @submit.prevent="submitForm" class="space-y-4">
-          <div>
-            <label class="block text-gray-700 dark:text-gray-300 mb-1">Name</label>
-            <input type="text" v-model="form.name"
-              class="w-full p-2 rounded-md border border-gray-300 focus:outline-none  dark:bg-[#2A2A2A] dark:text-white" />
-          </div>
-
-          <div>
-            <label class="block text-gray-700 dark:text-gray-300 mb-1">Phone</label>
-            <input type="text" v-model="form.phone"
-              class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-[#2A2A2A] dark:text-white" />
-          </div>
-
-          <div>
-            <label class="block text-gray-700 dark:text-gray-300 mb-1">Description</label>
-            <textarea rows="3" v-model="form.description"
-              class="w-full p-2 rounded-md] border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-[#2A2A2A] dark:text-white"></textarea>
-          </div>
-
-          <div class="flex justify-between items-center mt-4">
-            <button type="button" @click="closeModal" class="text-red-500 font-medium hover:underline">Cancel</button>
-            <button type="submit"
-              class="bg-[#F49420] text-white px-4 py-2 rounded hover:bg-[#F49420] transition">Submit</button>
-          </div>
-        </form>
-      </div>
+    <!-- Header -->
+    <div class="text-center mb-6">
+      <h2 class="text-2xl font-bold text-gray-800 dark:text-white font-poppins">Get In Touch</h2>
+      <p class="text-gray-500 dark:text-gray-400 mt-2 text-sm">We'd love to hear from you!</p>
     </div>
+
+    <!-- Form -->
+    <form @submit.prevent="submitForm" class="space-y-5">
+      <div>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Your Name</label>
+        <input type="text" v-model="form.name" placeholder="John Doe"
+          class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#F49420]/50 focus:border-[#F49420] dark:bg-[#2A2A2A] dark:text-white dark:border-gray-600 placeholder-gray-400 transition-all" />
+      </div>
+
+      <div>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Phone Number</label>
+        <input type="text" v-model="form.phone" placeholder="+1 (123) 456-7890"
+          class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#F49420]/50 focus:border-[#F49420] dark:bg-[#2A2A2A] dark:text-white dark:border-gray-600 placeholder-gray-400 transition-all" />
+      </div>
+
+      <div>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">How Can We Help?</label>
+        <textarea rows="4" v-model="form.description" placeholder="Tell us about your project or inquiry..."
+          class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#F49420]/50 focus:border-[#F49420] dark:bg-[#2A2A2A] dark:text-white dark:border-gray-600 placeholder-gray-400 transition-all"></textarea>
+      </div>
+
+      <div class="pt-2">
+        <button type="submit"
+          class="w-full bg-gradient-to-r from-[#F49420] to-orange-500 text-white font-medium py-3 px-4 rounded-lg hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-[#F49420]/50 focus:ring-offset-2 transition-all flex items-center justify-center">
+          <span>Send Message</span>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
+          </svg>
+        </button>
+      </div>
+    </form>
+  </div>
+
+  </div>
 
     <!-- TERMS & CONDITIONS MODAL -->
     <Transition name="fade">
