@@ -1,6 +1,6 @@
 <template>
   <div class=" w-[100%] mx-auto overflow-x-hidden h-[100vh] bg-white dark:bg-[#111111]">
-    <div class="lg:px-[150px] px-10 pt-[30px]">
+    <div class="lg:px-[150px] px-[15px] pt-[30px]">
       <div class="fixed top-0 left-0 w-full pointer-events-none select-none ">
         <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="842" viewBox="0 0 1920 842" fill="none"
           class="w-full h-auto">
