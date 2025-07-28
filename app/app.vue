@@ -192,7 +192,7 @@
             Join Now
           </h2>
           <div>
-            <div class="flex lg:justify-start justify-center items-center">
+            <div class="flex lg:justify-start justify-center items-center px-10 lg:px-0">
               <div v-if="activeTab === 1">
 
                 <svg class="rounded-lg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
