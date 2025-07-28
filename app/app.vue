@@ -151,7 +151,7 @@
             totalUserCount.toLocaleString() }}</h1>
           <h2
             class="text-[#2A2A2A] dark:text-white font-roboto font-bold text-[50px] lg:text-[60px] leading-[130%] mt-[10px]">
-            Bitcyclub<br>Members
+            BitcyClub<br>Members
           </h2>
           <div class="border border-[#F49420]  w-full h-auto lg:p-[30px] p-[20px] rounded-[20px] mt-[20px]">
             <h4 class="lg:text-[40px] text-[30px] leading-[120%] text-[#F49420] font-medium font-roboto">{{
@@ -2446,7 +2446,7 @@
               happens
               next? Confusion, manipulation, and loss. Again and again.
               <br><br>
-              I founded Bitcyclub to change that.
+              I founded BitcyClub to change that.
               <br><br>
               This isn't just another crypto tool — it's a strategic training ground. A space where users engage with
               real
@@ -2465,7 +2465,7 @@
               happens
               next? Confusion, manipulation, and loss. Again and again.
               <br><br>
-              I founded Bitcyclub to change that.
+              I founded BitcyClub to change that.
               <br><br>
               This isn't just another crypto tool — it's a strategic training ground. A space where users engage with
               real
@@ -2475,7 +2475,7 @@
               <br><br>
               We don't promise shortcuts. We deliver preparation.
               <br><br>
-              At Bitcyclub, success moves in rotations — just like in real markets. For one to win, another must lose.
+              At BitcyClub, success moves in rotations — just like in real markets. For one to win, another must lose.
               The
               difference here is, you're learning from every move. You're not gambling. You're building real-world
               experience — driven by data, competition, and a mindset for long-term growth.
@@ -2488,7 +2488,7 @@
               It's competitive, but not chaotic.
               It's a solution to a broken system — built to help users evolve.
               <br><br>
-              Bitcyclub is where your crypto journey truly begins.
+              BitcyClub is where your crypto journey truly begins.
               <br><br>
               Gady Kohanov
               <br>
@@ -2503,13 +2503,13 @@
     </div>
     <footer
       class="lg:px-[150px] px-10 w-[100%] border-t border-gray-200 dark:border-transperrent py-6 mx-auto lg:flex block justify-between z-10 lg:h-[105px] h-auto items-center "
-      style="background-image: url('/vector.png'); background-position: center; background-size: cover; background-color: rgb(255 255 255 / 9%);">
+      style="background-image: url('/vector.svg'); background-position: center; background-size: cover; background-color: rgb(255 255 255 / 9%);">
       <div class="lg:w-1/2 w-full">
         <ul
           class="flex list-none gap-5 lg:ml-[35px] mx-auto lg:justify-start justify-center font-poppins lh:text-[17px] text-[14px] font-normal align-center">
           <li>
             <a href="#" class="transition-colors text-center lg:text-left" :class="[
-              activeNav === 'home'
+              activeNav === 'privacy'
                 ? 'text-[#2A2A2A] dark:text-white'
                 : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
             ]" @click.prevent="openPrivacyModel">About Us</a>
