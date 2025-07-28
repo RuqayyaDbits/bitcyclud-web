@@ -85,7 +85,7 @@
           <div class="col-md-6 col-12 flex justify-end">
 
 
-            <ul class="flex list-none gap-5 ml-[35px] font-poppins text-[17px] font-normal">
+            <ul class="flex list-none lg:gap-5 gap-2  ml-[35px] font-poppins text-[17px] font-normal">
               <li>
                 <a href="https://play.google.com/store/apps/details?id=com.bitcy.bitcy_wallet" target="_blank"
                   class="transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="24"
