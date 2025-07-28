@@ -12,7 +12,7 @@
       <header class="lg:h-[98px] h-[60px]">
         <div class="row flex justify-between">
           <div class="col-md-6 col-12 flex justify-start">
-            <svg xmlns="http://www.w3.org/2000/svg" width="167" height="24" viewBox="0 0 167 24" fill="none"
+            <svg xmlns="http://www.w3.org/2000/svg" width="150" height="24" viewBox="0 0 167 24" fill="none"
               class="text-[#2A2A2A] dark:text-white">
               <path
                 d="M1.26369e-05 23.1546H9.45589C18.6412 23.1546 19.4749 13.6402 13.6741 11.8216C19.0701 9.7016 18.9063 1.48096 10.3614 1.48096H0L5.05477e-05 5.29741C2.6054 5.05709 4.54405 5.81804 7.10947 6.34694C7.66159 2.96366 13.801 5.76111 16.0426 4.05707C14.7268 7.09115 10.0006 4.90241 10.3503 7.30105C10.4865 8.01091 11.9551 10.0088 11.311 11.73C11.6128 13.0658 11.8631 14.7832 12.4649 15.4358C13.2011 16.2335 12.4833 18.531 10.5417 19.216C9.20928 19.4412 9.25345 18.51 8.61484 18.1569C7.49036 17.5387 6.17081 17.9795 4.51078 16.3518C1.73732 17.4872 2.12382 20.2751 1.26369e-05 23.1546ZM5.05477e-05 11.73C2.81216 10.6824 5.30215 10.089 8.83384 10.545C6.68243 9.48406 3.25569 8.81046 5.05477e-05 9.20928V11.73ZM5.05477e-05 17.7009C3.22992 14.8977 4.29914 13.8863 8.83384 12.5487C5.76224 12.2949 2.74218 12.1708 9.71353e-06 13.789C5.61641e-06 15.0294 5.05477e-05 16.3518 5.05477e-05 17.7009Z"
@@ -44,7 +44,7 @@
                 d="M150.431 22.8287C150.225 22.8287 150.05 22.7564 149.906 22.6119C149.762 22.4674 149.689 22.292 149.689 22.0856V1.9291C149.689 1.70204 149.762 1.51627 149.906 1.37178C150.05 1.22729 150.225 1.15504 150.431 1.15504H159.396C161.065 1.15504 162.425 1.41306 163.476 1.9291C164.527 2.4245 165.3 3.11599 165.794 4.00358C166.31 4.89116 166.567 5.92324 166.567 7.09981C166.567 7.88419 166.423 8.57568 166.134 9.17428C165.867 9.75225 165.527 10.227 165.114 10.5985C164.723 10.9701 164.331 11.2591 163.94 11.4655C164.743 11.837 165.454 12.4563 166.073 13.3232C166.691 14.1902 167 15.2223 167 16.4195C167 17.658 166.722 18.7623 166.165 19.7324C165.609 20.7026 164.785 21.4663 163.692 22.0236C162.6 22.5603 161.25 22.8287 159.643 22.8287H150.431ZM153.986 19.5467H159.148C160.261 19.5467 161.106 19.2474 161.683 18.6488C162.26 18.0295 162.549 17.2864 162.549 16.4195C162.549 15.5112 162.25 14.7578 161.652 14.1592C161.075 13.5606 160.241 13.2613 159.148 13.2613H153.986V19.5467ZM153.986 10.0412H158.839C159.932 10.0412 160.746 9.78321 161.281 9.26717C161.838 8.73049 162.116 8.039 162.116 7.1927C162.116 6.32575 161.838 5.6549 161.281 5.18014C160.746 4.68475 159.932 4.43705 158.839 4.43705H153.986V10.0412Z"
                 fill="currentColor" />
             </svg>
-            <ul class="hidden md:flex list-none gap-5 ml-[35px] font-poppins text-[17px] font-normal">
+            <ul class="hidden md:flex list-none gap-5 lg:ml-[35px] font-poppins text-[17px] font-normal">
               <li>
                 <a href="#" class="transition-colors" :class="[
                   activeNav === 'home'
@@ -82,10 +82,10 @@
               </li>
             </ul>
           </div>
-          <div class="col-md-6 col-12 flex justify-end">
+          <div class="col-md-6 col-12 flex lg:justify-end justify-center">
 
 
-            <ul class="flex list-none lg:gap-5 gap-2  ml-[35px] font-poppins text-[17px] font-normal">
+            <ul class="flex list-none lg:gap-5 gap-2  lg:ml-[35px] font-poppins text-[17px] font-normal">
               <li>
                 <a href="https://play.google.com/store/apps/details?id=com.bitcy.bitcy_wallet" target="_blank"
                   class="transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="24"
@@ -2355,7 +2355,7 @@
             <div class="flex mb-6 lg:justify-start justify-center  font-poppins py-10 lg:py-[25px] gap-[15px]">
 
 
-              <button v-for="tab in 2" :key="tab" @click="activeTab = tab"
+              <!-- <button v-for="tab in 2" :key="tab" @click="activeTab = tab"
                 class=" py-2 rounded-t-lg font-light transition-colors duration-200 bg-transparent text-[#2A2A2A] dark:text-white font-roboto relative justify-end flex flex-col"
                 style="margin-right: 8px;">
                 <span>
@@ -2374,7 +2374,52 @@
                   {{ tab === 1 ? 'Download From IOS' : 'Download For Android' }}
                 </span>
 
-              </button>
+              </button> -->
+              <button
+  v-for="tab in 2"
+  :key="tab"
+  @click="activeTab = tab"
+  :class="[
+    'py-2 rounded-t-lg font-light transition-colors duration-200 bg-transparent font-roboto relative justify-end flex flex-col',
+    activeTab === tab ? 'text-orange-500' : 'text-[#2A2A2A] dark:text-white'
+  ]"
+  style="margin-right: 8px;"
+>
+  <span>
+    <svg
+      v-if="tab === 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="90%"
+      height="100"
+      fill="none"
+      viewBox="0 0 20 20"
+    >
+      <path
+        :fill="activeTab === tab ? '#f97316' : 'currentColor'"
+        d="M15.8 10.7c0-2.2 1.8-3.2 1.9-3.3-.9-1.3-2.3-1.5-2.8-1.5-1.2-.1-2.3.7-2.9.7-.6 0-1.5-.7-2.5-.7-1.3 0-2.5.8-3.2 2.1-1.4 2.4-.4 5.9 1 7.8.7 1 1.5 2.1 2.6 2.1 1 0 1.3-.7 2.5-.7s1.4.7 2.5.7c1.1 0 1.8-1 2.5-2 .8-1.2 1.1-2.4 1.1-2.5-.1 0-2.1-.8-2.1-3.2ZM13.6 3.6c.5-.6.8-1.4.7-2.2-.7 0-1.6.5-2.1 1.1-.5.6-.8 1.4-.7 2.2.8.1 1.6-.4 2.1-1.1Z"
+      />
+    </svg>
+
+    <svg
+      v-else
+      xmlns="http://www.w3.org/2000/svg"
+      width="100%"
+      height="65px"
+      viewBox="0 0 56 61"
+      fill="none"
+      class="mb-[13px]"
+    >
+      <path
+        :fill="activeTab === tab ? '#f97316' : 'currentColor'"
+        d="M30.68 29.22L40.5367 19.3633L8.70004 1.46996C6.59004 0.329958 4.61337 0.169959 2.88004 1.41663L30.68 29.22ZM42.2167 40.76L52.4634 34.9966C54.4634 33.8766 55.56 32.29 55.56 30.53C55.56 28.7733 54.4634 27.1833 52.4667 26.0633L43.19 20.8533L32.7467 31.2933L42.2167 40.76ZM1.16671 3.83996C0.953374 4.49662 0.833374 5.22996 0.833374 6.03329V55.05C0.833374 56.32 1.11337 57.4133 1.62004 58.2833L28.61 31.29L1.16671 3.83996ZM30.68 33.3566L3.84004 60.2C4.35337 60.3966 4.90671 60.5 5.49004 60.5C6.53004 60.5 7.61337 60.1933 8.71671 59.58L39.5667 42.2566L30.68 33.3566Z"
+      />
+    </svg>
+
+    {{ tab === 1 ? 'Download From IOS' : 'Download For Android' }}
+  </span>
+</button>
+
+
             </div>
           </div>
         </div>
@@ -2463,7 +2508,7 @@
         <ul
           class="flex list-none gap-5 lg:ml-[35px] mx-auto lg:justify-start justify-center font-poppins lh:text-[17px] text-[14px] font-normal align-center">
           <li>
-            <a href="#" class="transition-colors" :class="[
+            <a href="#" class="transition-colors text-center lg:text-left" :class="[
               activeNav === 'home'
                 ? 'text-[#2A2A2A] dark:text-white'
                 : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
@@ -3437,29 +3482,29 @@
         <!-- Header -->
         <div class="text-center mb-6">
           <h2 class="text-2xl font-bold text-gray-800 dark:text-white font-poppins">About Us</h2>
-            BitcyClub is where education meets competition — and where every second counts.
+          BitcyClub is where education meets competition — and where every second counts.
         </div>
-       We built BitcyClub because we were tired of fake trading apps, bots, and empty promises. Our team wanted
-            something real. Something fun. A fast-paced game where anyone can test their instincts, compete with others,
-            and actually learn how the market moves.
-            <br>
-            There’s no gambling here. No fake users. No simulations. Just real people playing real-time rounds — every
-            20 seconds — based on live market data.
-            <br>
-            Whether you’re predicting Bitcoin, gold, or palladium, every round sharpens your thinking and puts your
-            skills to the test. And if you’re good, you’ll climb the leaderboard and unlock real rewards — sponsored by
-            real businesses.
-            <br>
-            BitcyClub isn’t about luck. It’s about thinking fast, learning faster, and having fun while doing it.
-            <br>
-            That’s the point.
+        We built BitcyClub because we were tired of fake trading apps, bots, and empty promises. Our team wanted
+        something real. Something fun. A fast-paced game where anyone can test their instincts, compete with others,
+        and actually learn how the market moves.
+        <br>
+        There’s no gambling here. No fake users. No simulations. Just real people playing real-time rounds — every
+        20 seconds — based on live market data.
+        <br>
+        Whether you’re predicting Bitcoin, gold, or palladium, every round sharpens your thinking and puts your
+        skills to the test. And if you’re good, you’ll climb the leaderboard and unlock real rewards — sponsored by
+        real businesses.
+        <br>
+        BitcyClub isn’t about luck. It’s about thinking fast, learning faster, and having fun while doing it.
+        <br>
+        That’s the point.
 
-        
+
       </div>
     </div>
   </div>
 
-   
+
 </template>
 
 <script setup>
