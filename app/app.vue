@@ -1,6 +1,6 @@
 <template>
   <div class=" w-[100%] mx-auto overflow-x-hidden h-[100vh] bg-white dark:bg-[#111111]">
-    <div class="lg:px-[150px] px-5 pt-[30px]">
+    <div class="lg:px-[150px] px-10 pt-[30px]">
       <div class="fixed top-0 left-0 w-full pointer-events-none select-none ">
         <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="842" viewBox="0 0 1920 842" fill="none"
           class="w-full h-auto">
@@ -9,7 +9,7 @@
             stroke="white" stroke-opacity="0.05" stroke-width="3" />
         </svg>
       </div>
-      <header class="h-[98px]">
+      <header class="lg:h-[98px] h-[60px]">
         <div class="row flex justify-between">
           <div class="col-md-6 col-12 flex justify-start">
             <svg xmlns="http://www.w3.org/2000/svg" width="167" height="24" viewBox="0 0 167 24" fill="none"
@@ -164,7 +164,7 @@
             Bitcyclub<br>Members
           </h2>
           <div
-            class="border border-[#F49420] lg:w-[390px] w-full lg:h-[138px] h-auto lg:p-[30px] p-[20px] rounded-[20px] mt-[20px]">
+            class="border border-[#F49420]  w-full h-auto lg:p-[30px] p-[20px] rounded-[20px] mt-[20px]">
             <h4 class="lg:text-[40px] text-[30px] leading-[120%] text-[#F49420] font-medium font-roboto">{{
               onlineUserCount.toLocaleString() }}</h4>
             <h5 class="text-[#2A2A2A] dark:text-white font-roboto font-bold  text-[20px]  leading-[130%]">Online Now
@@ -177,8 +177,8 @@
             style="max-width:100% !important; width: 1000px;">
         </div>
       </div>
-      <div class="lg:h-[100px] h-[50px]"></div>
-      <div class="container w-[100%] lg:w-[100%] mx-auto lg:flex block justify-between z-10" id="download">
+      <div class="lg:h-[100px] h-[0px]"></div>
+      <div class="container w-[100%] lg:w-[100%] mx-auto flex-col-reverse lg:flex-row flex lg:justify-between justify-center z-10" id="download">
 
         <div class="lg:w-2/3 w-full  justify-center  flex lg:flex-col flex-col-reverse mr-10">
           <div>
@@ -188,15 +188,15 @@
         <div class="lg:w-1/3 w-full flex flex-col justify-center">
 
           <h2
-            class="text-[#2A2A2A] dark:text-white font-roboto font-bold lg:text-left text-center lg:mb-0 mb-[25px] text-[40px] lg:text-[86px] leading-[130%] mt-[10px]">
+            class="text-[#2A2A2A] dark:text-white font-roboto font-bold lg:text-left text-center lg:mb-0 mb-[25px] text-[40px] lg:text-[66px] leading-[130%] mt-[10px]">
             Join Now
           </h2>
           <div>
-            <div class="flex lg:justify-start justify-center items-center px-[10px] lg:px-0">
-              <div v-if="activeTab === 1">
+            <div class="container flex flex-col-reverse lg:flex-row lg:justify-between justify-center lg:flex lg:w-[100%] mx-auto w-[100%] z-10">
+              <div v-if="activeTab === 1" class="flex justify-center">
 
                 <svg class="rounded-lg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                  version="1.1" width="351" height="351" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000"
+                  version="1.1" width="280" height="280" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000"
                   xml:space="preserve">
                   <g transform="translate(0,0) scale(1.0,1.0)"><svg width="1000" height="1000" viewBox="0 0 820 820"
                       enable-background="new 0 0 1000 1000" xml:space="preserve">
@@ -1154,9 +1154,9 @@
                     </svg></g>
                 </svg>
               </div>
-              <div v-if="activeTab === 2">
+              <div v-if="activeTab === 2" class="flex justify-center">
                 <svg class="rounded-lg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                  version="1.1" width="365" height="365" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000"
+                  version="1.1" width="280" height="280" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000"
                   xml:space="preserve">
                   <g transform="translate(0,0) scale(1.0,1.0)"><svg width="1000" height="1000" viewBox="0 0 900 900"
                       enable-background="new 0 0 1000 1000" xml:space="preserve">
@@ -2360,7 +2360,7 @@
               </div>
 
             </div>
-            <div class="flex mb-6 lg:justify-start justify-center  font-poppins py-[25px] gap-[15px]">
+            <div class="flex mb-6 lg:justify-start justify-center  font-poppins py-10 lg:py-[25px] gap-[15px]">
 
 
               <button v-for="tab in 2" :key="tab" @click="activeTab = tab"
@@ -2387,12 +2387,12 @@
           </div>
         </div>
       </div>
-      <div class="lg:h-[100px] h-[50px]"></div>
+      <div class="lg:h-[100px] h-[5px]"></div>
       <div class="container lg:w-[90%] w-[100%] mx-auto lg:flex block justify-between z-10" id="vision">
-        <div class="lg:w-1/2 w-full lg:justify-start justify-center flex flex-col mr-28 lg:sticky top-0 h-screen">
-          <img src="/admin.png" alt="" class="object-contain h-full w-full z-10 relative" style="aspect-ratio:1/1;">
+        <div class="lg:w-1/2 w-full lg:justify-start justify-center flex mt-[25px] lg:mt-0 flex-col  lg:sticky top-0 lg:h-screen">
+          <img src="/admin.png" alt="" class="object-contain  w-full z-10 relative" >
         </div>
-        <div class="lg:w-1/2 w-full flex flex-col justify-center">
+        <div class="lg:w-1/2 lg:ml-10 w-full py-6 lg:py-0 flex flex-col justify-center">
           <img src="/quote.png" alt="" class="w-20">
 
           <h2
@@ -2461,10 +2461,10 @@
           </p>
         </div>
       </div>
-      <div class="lg:h-[100px] h-[50px]"></div>
+      <div class="lg:h-[100px] h-[5px]"></div>
     </div>
     <footer
-      class="lg:px-[150px] px-10 w-[100%] py-6 mx-auto lg:flex block justify-between z-10 lg:h-[155px] h-auto items-center "
+      class="lg:px-[150px] px-10 w-[100%] py-6 mx-auto lg:flex block justify-between z-10 lg:h-[105px] h-auto items-center "
       style="background-image: url('/vector.png'); background-position: center; background-size: cover; background-color: rgb(255 255 255 / 9%);">
       <div class="lg:w-1/2 w-full">
         <ul
@@ -2483,6 +2483,13 @@
                 : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
             ]" @click.prevent="openTermsModal">Terms & Condition</a>
           </li>
+           <li>
+                <a href="#" class="transition-colors" :class="[
+                  activeNav === 'contact'
+                    ? 'text-[#2A2A2A] dark:text-white'
+                    : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
+                ]" @click.prevent="openModal">Contact Us</a>
+              </li>
           
         </ul>
       </div>
