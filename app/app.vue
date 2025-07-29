@@ -161,9 +161,9 @@
           </div>
 
         </div>
-        <div class="lg:w-2/3 w-full justify-end flex flex-col lg:mt-0 mt-[22px]">
-          <img src="/banner_img1.png" alt="Bitcy" class="z-10 relative"
-            style="max-width:100% !important; width: 1000px;">
+        <div class="lg:w-1/2 w-full justify-center items-center flex flex-col lg:mt-0 mt-[22px]">
+          <img src="/iPhone_16.png" alt="Bitcy" class="z-10 relative"
+            style="max-width:100% !important; width: 500px;">
         </div>
       </div>
       <div class="lg:h-[100px] h-[0px]"></div>
@@ -171,20 +171,21 @@
         class="container w-[100%] lg:w-[100%] mx-auto flex-col-reverse lg:flex-row flex lg:justify-between justify-center z-10"
         id="download">
 
-        <div class="lg:w-2/3 w-full  justify-center  flex lg:flex-col flex-col-reverse mr-10">
+        <div class="lg:w-1/2 w-full  justify-center  flex lg:flex-col flex-col-reverse mr-10">
           <div>
-            <img src="/banner_img2.png" alt="bitcy" class="z-10 relative">
+           <img src="/banner_img1.png" alt="Bitcy" class="z-10 relative"
+            style="max-width:100% !important; width: 700px;">
           </div>
         </div>
-        <div class="lg:w-1/3 w-full flex flex-col justify-center">
+        <div class="lg:w-1/2 w-full flex flex-col justify-center">
 
           <h2
-            class="text-[#2A2A2A] dark:text-white font-roboto font-bold lg:text-left text-center lg:mb-0 mb-[25px] text-[40px] lg:text-[66px] leading-[130%] mt-[10px]">
+            class="text-[#2A2A2A] dark:text-white font-roboto font-bold justify-center lg:text-center text-center lg:mb-0 mb-[25px] text-[40px] lg:text-[66px] leading-[130%] mt-[10px]">
             Join Now
           </h2>
           <div>
             <div
-              class="container flex flex-col-reverse lg:flex-row lg:justify-between justify-center lg:flex lg:w-[100%] mx-auto w-[100%] z-10">
+              class="container flex flex-col-reverse lg:flex-row lg:justify-center justify-center lg:flex lg:w-[100%] mx-auto w-[100%] z-10">
               <div v-if="activeTab === 1" class="flex justify-center">
 
                 <svg class="rounded-lg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -2352,7 +2353,7 @@
               </div>
 
             </div>
-            <div class="flex mb-6 lg:justify-start justify-center  font-poppins py-10 lg:py-[25px] gap-[15px]">
+            <div class="flex mb-6 lg:justify-center justify-center  font-poppins py-10 lg:py-[25px] gap-[15px]">
 
 
               <!-- <button v-for="tab in 2" :key="tab" @click="activeTab = tab"
@@ -2430,7 +2431,7 @@
           class="lg:w-1/2 w-full lg:justify-start justify-center flex mt-[25px] lg:mt-0 flex-col  lg:sticky top-0 lg:h-screen">
           <img src="/admin.png" alt="" class="object-contain  w-full z-10 relative">
         </div>
-        <div class="lg:w-1/2 lg:ml-10 w-full py-6 lg:py-0 flex flex-col justify-center">
+        <div class="lg:w-1/2 lg:ml-10 w-full py-6 lg:py-0 flex flex-col justify-start">
           <img src="/quote.png" alt="" class="w-20">
 
           <h2
@@ -2502,26 +2503,26 @@
       <div class="lg:h-[50px] h-[5px]"></div>
     </div>
     <footer
-      class="lg:px-[150px] px-10 w-[100%] border-t border-gray-200 dark:border-transperrent py-6 mx-auto lg:flex block justify-between z-10 lg:h-[105px] h-auto items-center "
+      class="lg:px-[150px] px-[20px] w-[100%] border-t border-gray-200 dark:border-transperrent py-6 mx-auto lg:flex block justify-between z-10 lg:h-[105px] h-auto items-center "
       style="background-image: url('/vector.png'); background-position: center; background-size: cover; background-color: rgb(255 255 255 / 9%);">
       <div class="lg:w-1/2 w-full">
         <ul
           class="flex list-none gap-5 lg:ml-[35px] mx-auto lg:justify-start justify-center font-poppins lh:text-[17px] text-[14px] font-normal align-center">
-          <li>
+          <li class="text-center md:text-left">
             <a href="#" class="transition-colors text-center lg:text-left" :class="[
               activeNav === 'privacy'
                 ? 'text-[#2A2A2A] dark:text-white'
                 : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
             ]" @click.prevent="openPrivacyModel">About Us</a>
           </li>
-          <li>
+          <li class="text-center md:text-left">
             <a href="#" class="transition-colors" :class="[
               activeNav === 'terms'
                 ? 'text-[#2A2A2A] dark:text-white'
                 : 'text-[#7A7A7A] dark:text-[#7A7A7A]'
             ]" @click.prevent="openTermsModal">Terms & Condition</a>
           </li>
-          <li>
+          <li class="text-center md:text-left">
             <a href="#" class="transition-colors" :class="[
               activeNav === 'contact'
                 ? 'text-[#2A2A2A] dark:text-white'
