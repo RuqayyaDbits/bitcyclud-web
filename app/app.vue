@@ -2579,7 +2579,7 @@
 
         <div>
           <!-- Header -->
-          <div class="text-center mb-6 sticky top-0 bg-[#1F1F1F] flex justify-between px-6 pt-2">
+          <div class="text-center mb-6 sticky top-0 bg-[#1F1F1F] flex justify-between px-6 py-3">
             <h2 class="text-2xl font-bold text-gray-800 dark:text-white font-poppins">Terms & Condition</h2>
             <button @click="closeTermsModal"
               class=" z-[50]  text-gray-500 hover:text-[#F49420] transition-colors duration-200">
@@ -2589,861 +2589,106 @@
           </svg>
         </button>
           </div>
-
-          <div bis_skin_checked="1" class="text-black dark:text-white px-6">
-            USER AGREEMENT FOR
-            PAPARAZZI GAMES, INC DBA BITCYCLUB:
-            Apple is not involved in any way with the contest or sweepstakes.
-            NOTE: PAPARAZZI GAMES, INC DBA BITCYCLUB is not affiliated with Apple, Inc.
-            <br>
-            <br>
-            Updated <a href="tel:07-16-2025 " style="color:#f49420;">07-16-2025</a>
-            <br><br></br>
-            BITCYCLUB TRIVIA APP is brought to you by Paparazzi Games, INC. The following is a User Agreement between
-            you (also referred to as the "User," or "customer") and Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP. It is
-            "Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP"; referred to as "we," "us," and "our''). This User
-            Agreement (''Agreement" or “User Agreement”) governs your use of the services provided by Paparazzi Games,
-            inc DBA BITCYCLUB TRIVIA APP described as creating or importing your account, downloading or launching
-            BITCYCLUB APP, using Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP services and such other services that may
-            be offered by Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP from time to time ("Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP Services'' or "Services''). . By registering for a Paparazzi Games, inc DBA BITCYCLUB
-            TRIVIA APP account BITCYCLUB APP, you agree that you have read and understand this agreement and its
-            conditions, including the Privacy Policy, E-Sign Disclosure and Consent Policy in appendix 2. Upon using
-            Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP or purchasing something from Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP, you agree to be bound by the following terms and conditions. In the event of a
-            discrepancy between this Agreement and any other terms or policies referenced herein, the remainder of this
-            Agreement shall prevail. The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP requires that you carefully read
-            these Terms before accessing or using it. Your access or use of any portion of the Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP implies your agreement to these Terms. It is your responsibility to review all the
-            terms of this Agreement before using the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP or using any
-            Services. As a result of these Terms being considered an offer, acceptance is expressly limited to these
-            Terms. The Terms apply to any new features or tools that are added to the current APP. Please refer to this
-            page to view the most recent version of the Terms. We reserve the right to change or replace any part of
-            these Terms by posting updates and/or changes on Paparazzi Games, inc. DBA BITCYCLUB TRIVIA APP You are
-            responsible for periodically reviewing this page for any updates. By continuing to use or access the
-            Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP following the posting of any changes, you are deemed to have
-            agreed to the changes.
-
-
-            <br>
-            <br>
-
-            <h3 class="font-bold text-xl">ABOUT:</h3>
-            <br>
-
-            Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP allows you to study and observe the Bitcoin price chart.
-            As a user of the Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP, the user first learns, then practices
-            the information gained, and then competes against other users, defending his position regarding the
-            direction in which the price of bitcoin will move (up or down).
-            <br>
-            <br>
-            Two groups of users are involved in the process. The first group consists of users who believe that
-            Bitcoin will increase in price. The second group includes those who believe that the price of Bitcoin
-            will decline.
-            <br>
-            <br>
-            Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP introduced its own token, BITCY, in order to increase
-            interest and motivation among users. This token function is to function as an internal coin of the
-            application. It does not have a financial value outside of the Paparazzi Games, inc
-            <br>
-            <br>
-            DBA BITCYCLUB TRIVIA APP. Users have the capability to transfer inner Bitcy tokens between themselves
-            within the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP. A prediction is made using the BITCYCLUB
-            TRIVIA APP inner BITCY coin generated by Paparazzi Games, inc. In the event that the prediction has been
-            correct, the user's Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP will be replenished with a certain
-            amount, depending on the amount invested. Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP users get
-            rewarded for its inner Bitcy token earned through successful predictions, which can be viewed in the
-            "rewards' ' section to the left of the home screen. In the same way, users can purchase their inner
-            BITCYCLUB TRIVIA APP coins through the ADD button, located in Paparazzi Games, inc DBA BITCYCLUB TRIVIA
-            APP home screen. The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP does not profit from sales or
-            purchases of Bitcoin or any other cryptocurrency available on the crypto markets. The Bitcy Tokens held
-            by users are the owners of the tokens. As part of our platform, Bitcy Tokens are used as a form of
-            fictitious money by enabling users to make transactions within the platform.
-            <br>
-            <br>
-            <h3 class="font-bold text-xl">KEY ASPECTS:</h3>
-
-            <br>
-            There are no other businesses associated with BITCYCLUB TRIVIA APP, which is the sole domain of
-            Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP.
-            <br>
-            <br>
-            BITCYCLUB TRIVIA APP does not engage in financial transactions or crypto transactions using Binance or
-            Blockchain, or any other third-party platforms or financial institutions. The Bitcy Token is not
-            distributed through any other platform and is not registered as a smart contract on Binance or
-            Blockchain.
-            <br>
-            <br>
-            3.1.Paparazzi Games, inc DBA BITCYCLUB APP is not connected to any crypto-related applications, but
-            functions independently.
-            <br>
-            <br>
-            3.2.The functionality of Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP does not permit customers to
-            purchase Bitcoin or any other crypto currency via crypto markets or crypto world.
-            <br>
-            <br>
-            3.3.The features of Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP is not connected to the features of
-            the crypto wallet, since the application is a version of the educational platform consisting of a
-            practical forecasting process that can be used to obtain additional benefits.
-            <br>
-            <br>
-            4.4. All policies and rules for the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP application are in
-            compliance with all prescribed standards, and the developers take full responsibility for the
-            compliance. Apple Store administration is not responsible for the activities undertaken within the
-            application, nor for its interaction with users.
-            <br>
-            <br>
-            <h3 class="font-bold text-xl">5. AMENDMENT OF THESE TERMS</h3>
-
-            <br>
-            We may amend or modify this Agreement at any time by posting the revised agreement on the Paparazzi
-            Games, inc DBA BITCYCLUB TRIVIA APP and/or providing a copy to you (a “Revised Agreement”). The Revised
-            Agreement shall be effective as of the time it is posted but
-            <br>
-            <br>
-            will not apply retroactively. Your continued use of the Services after the posting of a Revised
-            Agreement constitutes your acceptance of such Revised Agreement. If you do not agree with any such
-            modification, your sole and exclusive remedy is to terminate your use of the Services and close your
-            account.
-            <br>
-            <br>
-
-            <h3 class="font-bold text-xl">6. DISPUTE RESOLUTION</h3>
-            <br>
-            NOTE: SECTION 7 (CUSTOMER FEEDBACK, QUERIES, COMPLAINTS, AND DISPUTE RESOLUTION) AND APPENDIX 5 CONTAIN
-            TERMS OUTLINING HOW TO RESOLVE DISPUTES BETWEEN YOU AND PAPARAZZI GAMES INC. DBA BITCYCLUB TRIVIA APP.
-            APPENDIX 5 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER.
-            <br>
-            NO INVESTMENT ADVICE OR BROKERAGE
-            <br>
-
-            The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP does not offer investment advice, tax advice, or legal
-            advice, and your reliance on such advice is solely your responsibility. It is important to note that
-            Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP is not registered with the US Securities and Exchange
-            Commission and does not offer securities services in the United States or to residents of the US.
-            <br>
-
-            <br>
-            <h3 class="font-bold text-xl">ELIGIBILITY AND ACCOUNT:</h3>
-
-
-            <br>
-            5.1. You must be 18 years of age or older in order to participate in the Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP Services. Depending on your location and other factors, certain features may not be
-            available to you.
-            <br>
-            <br>
-            5.2. It is mandatory to create an account with Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP in order to
-            make use of the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Services (the " Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP Account"). To use the services provided by Paparazzi Games, inc DBA BITCYCLUB
-            TRIVIA APP, you must undergo certain verification procedures. By registering or using Paparazzi Games,
-            inc DBA BITCYCLUB TRIVIA APP Account you agree and represent that you have created your Paparazzi Games,
-            inc DBA BITCYCLUB TRIVIA APP Account and you will use your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP
-            Account only for yourself, and not on behalf of any third party, unless you have obtained prior written
-            approval from Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP You are fully responsible for all activity
-            that occurs under your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account. We may, in our sole
-            discretion, refuse to open a Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account, suspend or terminate
-            any Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account.
-            <br>
-            5.3. Permission to access, process, and store your personal information. At the time of registering for
-            your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account, or at any other time deemed necessary by
-            Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP, you agree to provide the information we request for the
-            purpose of identifying you. You confirm that the information you provide us is accurate and authentic by
-            providing us with this information or any other information that may be required. We request that you
-            keep us informed if any of the
-            <br>
-            information you provide changes. By providing us with your personal information, you acknowledge and
-            agree that your information will be shared with credit reference agencies, fraud prevention agencies and
-            financial crime agencies, and that these agencies are authorized to respond to our inquiries. Your
-            credit rating should not be adversely affected by this identity check. Please be advised that we reserve
-            the right to monitor, review, retain, and/or disclose any information as necessary to comply with
-            applicable laws, regulations, sanctions programs, legal processes or governmental requests. Further, you
-            hereby authorize your wireless operator (e.g., AT&amp;T, T-Mobile, US Cellular, Verizon or any other
-            branded mobile service provider) to use your mobile number, name, address, email, network status,
-            customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI) and other
-            subscriber status details, if available, solely to allow verification of your identity and to compare
-            information you have provided to Paparazzi Games, inc DBA BITCYCLUB
-            <br>
-            5.4. The Paparazzi Games, Inc. application BITCYCLUB TRIVIA by using the BITCYCLUB Mobile App, users are
-            able to access services directly.
-            <br>
-            It is possible that services may become degraded or unavailable during periods of high volatility and
-            high traffic. These conditions could result in significant delays in support response times. Despite our
-            best efforts, we cannot guarantee that the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP will be
-            available without interruption or that orders will be executed, accepted, recorded, or remain open. We
-            will not be held responsible for any losses arising out of delays in processing predictions, inability
-            to execute predictions, or lack of timely response from Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP
-            customer support.
-            <br>
-            5.5. Apple, the Apple logo, iTunes, and the iPhone are all trademarks of Apple Inc, registered in the
-            U.S. and other countries. The Apple App Store is a service mark owned by Apple, Inc. BITCYCLUB TRIVIA
-            APP is not owned by, affiliated with, or sponsored by Apple, Inc.
-            <br>
-            <br>
-
-
-
-            <h3 class="font-bold text-xl">6. ADD BITCY TOKEN:</h3>
-            <br>
-            As soon as you create an account with Paparazzi Games, Inc. By registering on the BITCYCLUB TRIVIA APP,
-            you are deemed to be a member of Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP. The terms "member,"
-            "membership," and "account," all refer to this registration as a member.
-            <br>
-            In order to create an account, you must provide a unique username and email address. An account password
-            will also be required. Keeping your username and password confidential is important for you as any
-            activities taking place under your username or password are your responsibility. No account may be
-            assigned or otherwise transferred to any other person or entity. By using this website, you acknowledge
-            and agree that Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP is not responsible for any unauthorized
-            access to your account that results from theft or misappropriation of your account. If you believe that
-            someone has used your username, email address, or password without your permission, please contact us
-            immediately. By clicking ADD / REPLENISH the user will find 4 in app purchases exclusive packages that
-            they must confirm using the apple in app purchases payment method.
-            <br>
-            <br>
-
-
-            By purchasing a Hook package for $1.99, your BITCYCLUB wallet will be replenished with 1 Bitcy coin.
-            <br>
-            <br>
-            By purchasing a Fin package for $7.99, your BITCYCLUB wallet will be replenished with 5 Bitcy coins.
-            <br>
-            <br>
-            By purchasing a Dime package for $14.99, your BITCYCLUB wallet will be replenished with 10 Bitcy coins.
-            <br>
-            <br>
-            By purchasing a Quarter package for $35.99, your BITCYCLUB wallet will be replenished with 25 Bitcy
-            coins.
-            <br>
-            <br>
-            By purchasing a Grant package for $74.99, your BITCYCLUB wallet will be replenished with 50 Bitcy coins
-            .
-            <br>
-            <br>
-
-
-            NOTE:these items are ineligible for return or dispute!
-            <br>
-            <br>
-            MARKETPLACE:
-            <br>
-            <br>
-
-            Paparazzi Games Inc., dba BitcyClub Marketplace Terms and Conditions
-            <br>
-            <br>
-
-
-            Welcome to Paparazzi Games Inc., dba BitcyClub Marketplace. The following Terms and Conditions govern
-            your use of the Paparazzi Games Inc., dba BitcyClub Marketplace platform and the services provided by
-            Paparazzi Games Inc., dba BitcyClub. By using our platform and services, you agree to these Terms and
-            Conditions in full.
-
-
-            <br>
-            <br>
-            a. *Definitions:*
-            <br>
-            <br>
-            - *"Platform"* or *"Marketplace"* refers to the Paparazzi Games Inc., dba BitcyClub Marketplace.
-            <br>
-            <br>
-            - *"Services"* refer to any services provided by Paparazzi Games Inc., dba BitcyClub.
-            <br>
-            <br>
-            - *"Seller"* refers to the account listing items for sale on the Marketplace.
-            <br>
-            <br>
-            - *"Buyer"* refers to the account purchasing items from the Marketplace.
-            <br>
-            <br>
-            - *"User," "you," "your"* refer to anyone accessing our services, whether as a Buyer or Seller.
-
-            <br>
-            <br><br>
-            <br>
-
-            b. *Eligibility:*
-            <br>
-            <br>
-            You must be at least 18 years of age to use our platform and services. By using Paparazzi Games Inc.,
-            dba BitcyClub Marketplace, you represent and warrant that you meet all the eligibility requirements.
-
-            <br>
-            <br><br>
-            <br>
-
-            c. *Account Registration:*
-            <br>
-            <br>
-            Users must register an account to access certain features of the Platform. Users agree to provide
-            accurate, current, and complete information during the registration process and to update such
-            information to keep it accurate, current, and complete.
-            <br>
-            <br><br>
-            <br>
-
-
-            d. *Use of the Platform:*
-            <br>
-            <br>
-            Users agree to comply with all local, state, national, and international laws, statutes, ordinances, and
-            regulations that apply to your use of the Platform and Services.
-            <br>
-            <br><br>
-            <br>
-
-
-            e. *Content and Listings:*
-            <br>
-            <br>
-            - Users are solely responsible for the content and listings they post on the Platform.
-            <br>
-            <br>
-            - Paparazzi Games Inc., dba BitcyClub reserves the right, but does not assume the obligation, to monitor
-            transactions and communications occurring through the Platform to determine whether a violation of these
-            Terms has occurred.
-            <br>
-            <br><br>
-            <br>
-
-
-            f. *Purchase and Payment Policies:*
-            <br>
-            <br>
-            - Buyers shall pay for items through the payment methods available on the Platform.
-            <br>
-            <br>
-            - All purchases are subject to the return policy listed on the Platform.
-            <br>
-            <br><br>
-            <br>
-
-
-            g. *Return and Refund Policy:*
-            <br>
-            <br>
-            - Each Seller must have a clear and conspicuous return policy for their items.
-            <br>
-            <br>
-            - Buyers may return items in accordance with the Seller’s return policy.
-            <br>
-            <br>
-            - BitcyClub shall mediate disputes regarding returns and refunds between Buyers and Sellers.
-
-            <br>
-            <br><br>
-            <br>
-
-            h. *Dispute Resolution:*
-            <br>
-            <br>
-            - Buyers and Sellers agree to resolve any disputes directly in good faith.
-            <br>
-            <br>
-            - If Buyers and Sellers cannot resolve disputes amongst themselves, they can escalate the dispute to
-            Paparazzi Games Inc., dba BitcyClub for resolution.
-            <br>
-            <br>
-            - Paparazzi Games Inc., dba BitcyClub’s decision on any dispute is final and binding on both parties.
-            <br>
-            <br><br>
-            <br>
-
-
-            i. *Prohibited Conduct:*
-            <br>
-            <br>
-            Users agree not to:
-            <br>
-            <br>
-            - Violate any laws, third-party rights, or our policies;
-            <br>
-            <br>
-            - Use our Services if they are not able to form legally binding contracts, or are temporarily or
-            indefinitely suspended from using our Services.
-
-            <br>
-            <br><br>
-            <br>
-
-            j. *Intellectual Property:*
-            <br>
-            <br>
-            Paparazzi Games Inc., dba BitcyClub owns all intellectual property rights in the Platform and Services.
-            Users may not use any of Paparazzi Games Inc., dba BitcyClub’s intellectual property without our prior
-            written consent.
-            <br>
-            <br><br>
-            <br>
-
-
-            k. *Termination:*
-            <br>
-            <br>
-            Paparazzi Games Inc., dba BitcyClub may terminate or suspend your account if we believe that you have
-            violated or acted inconsistently with the letter or spirit of these Terms.
-
-            <br>
-            <br><br>
-            <br>
-
-            l. *Limitation of Liability:*
-            <br>
-            <br>
-            Paparazzi Games Inc., dba BitcyClub, including our partners, directors, officers, shareholders,
-            employees, and agents, will not be liable to you for any incidental, indirect, special, or consequential
-            damages arising out of or in connection with your use of our Platform and Services.
-
-            <br>
-            <br><br>
-            <br>
-
-            m. *Indemnity:*
-            <br>
-            <br>
-            Users agree to indemnify and hold Paparazzi Games Inc., dba BitcyClub and (as applicable) our parent,
-            subsidiaries, affiliates, partners, officers, directors, agents, and employees, harmless from any claim
-            or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your
-            breach of these Terms.
-            <br>
-            <br>
-
-
-            n. *Modifications to Terms:*
-            <br>
-            <br>
-            Paparazzi Games Inc., dba BitcyClub reserves the right to change these Terms at any time and to notify
-            you by updating and posting these Terms on our Platform.
-            <br>
-            <br>
-
-
-            o. *Governing Law:*
-            <br>
-            <br>
-            These Terms shall be governed and construed in accordance with the laws of the State of New York ,
-            without regard to its conflict of law provisions.
-
-            <br>
-            <br><br>
-            <br>
-
-            p. *Contact:*
-            <br>
-            <br>
-            For any questions or concerns about these Terms and Conditions, please contact us at Paparazzi Games,
-            Inc dba BitcyClub Tell: +(1) <a href="tel:212-248-4452">212-248-4452</a> Email: <a
-              href="mailto:PaparazziGames@Bitcy.Club">PaparazziGames@Bitcy.Club</a> marketplace@bitcy.club
-
-
-            <br>
-            <br><br>
-            <br>
-            Acknowledgment and Acceptance of Terms:
-            <br>
-            <br>
-            By using the Paparazzi Games Inc., dba BitcyClub Marketplace, you acknowledge that you have read,
-            understand, and agree to be bound by all of the terms and conditions presented herein.
-            <br>
-            <br><br>
-            <br>
-
-            SUSPENSION AND TERMINATION:
-            <br>
-            <br>
-
-            You may cancel or terminate your membership with Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP at any
-            time. In order to close your account, you must remove all Bitcy Tokens from Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP by requesting BITCY INNER TOKEN. As a member, you agree that Paparazzi Games, inc
-            DBA BITCYCLUB TRIVIA APP may, without any prior written notice, immediately suspend, terminate,
-            discontinue and/or limit your account. The user retains sole responsibility for the contents and actions
-            listed within the cause for such termination, discontinuation, suspension and/or limitation of access
-            shall include, but is not limited to: The Company is not responsible for any losses incurred due to the
-            closing or suspension of your account. If you violate these terms, any incorporated agreements,
-            regulations, or policies, you may be subject to law enforcement or other governmental requests. We have
-            the right to discontinue, alter, or modify any of our services or any part thereof as a result of
-            unexpected technical or security issues or problems, prolonged periods of inactivity, engagement in
-            fraudulent or illegal activities by you, or nonpayment of any associated fees that may be owed by you to
-            us in connection with your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP account. In addition, you
-            specifically agree that any and all terminations, suspensions, discontinuances, and/or limitations of
-            access for cause shall be made at our sole discretion and that we shall not be liable to you or any
-            third party with respect to the termination of your account, associated email address, and/or access to
-            any of our services. Your account with Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP may be terminated
-            for any or all of the following reasons:
-            <br>
-            <br>
-            7.1. the termination of any access to all or part of the Services provided by Paparazzi Games, Inc DBA
-            BITCYCLUB TRIVIA APP
-            <br>
-            <br>
-            7.2. Delete your password, and any information, files, or other content that has been associated with
-            your account, or any part thereof.
-            <br>
-            <br>
-            7.3. The suspension of any further use of our Services.
-
-            <br>
-            <br><br>
-            <br>
-
-            COMMISSIONS / LICENSES PAYMENTS:
-            <br>
-            <br>
-            The BITCYCLUB application is provided by Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP. Paparazzi Games
-            does not send invoices. In the future, we reserve the right to do so, in which case any relevant
-            commissions will be displayed prior to your use of any covered services. The fees associated with this
-            transaction will be displayed to you before you complete
-            <br>
-            <br>
-            it. At any time, Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP may change the structure of the
-            commissions (including adding new commissions for new services) at its own discretion.
-
-            <br>
-            <br><br>
-            <br>
-
-            INTELLECTUAL PROPERTY RIGHTS:
-            <br>
-            <br>
-            All components, services, and contents are the exclusive property of Paparazzi Games, Inc DBA BITCYCLUB
-            TRIVIA APP and are protected by intellectual property law. All rights reserved. Our service does not
-            require the use of third-party intellectual property rights. All content, materials, and intellectual
-            property of the application and services are protected, including but not limited to copyright,
-            trademarks, patents, trade secrets, and know-how. It is strictly prohibited to reproduce, copy, or
-            distribute any materials or elements of the service for commercial purposes without written permission.
-            Users agree that they will not violate the intellectual property rights of Paparazzi Games, inc DBA
-            BITCYCLUB TRIVIA APP, including, but not limited to: sale, import, export, licensing, rental,
-            modification, distribution, copying, reproduction, transfer, public demonstration, public performance,
-            publication, adaptation, editing or creating derivative works from materials, design elements or content
-            of the services. You may not use the content, materials, and other intellectual property rights of the
-            Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP for any purpose not explicitly stated in this User
-            Agreement.
-
-            <br>
-            <br><br>
-            <br>
-
-            CONFIDENTIALITY AND PRIVACY POLICY / PERSONAL DATA:
-            <br>
-            <br>
-            As a company, Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP does not disclose confidential information
-            obtained from users without the consent of the other user, except as required by applicable laws. The
-            information should not be considered confidential, and Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP has
-            no obligation to provide such information if it meets at least one of the following conditions:
-            <br>
-            <br>
-            - The information is known before the services are provided
-            <br>
-            <br>
-            - The information is legally received by third parties outside the context of the services - In which
-            the information has been publicly disclosed,
-            <br>
-            <br>
-            - Which gives the user the right to distribute the information with their consent.
-            <br>
-            <br>
-            Please be advised that it is possible that Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP may be
-            required to disclose your personal information to law enforcement, data protection authorities,
-            financial regulators, financial service providers, government agencies, and other authorized persons. As
-            required by the laws of the country in which Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP operates. The
-            user is not required to post their image on the platform, but if they do so, it will be available to all
-            participants and will be visible to all. User verification requires the submission of an image only
-            during user verification, and it is required exclusively for the platform.
-
-            <br>
-            <br><br>
-            <br>
-
-            LIMITATIONS OF LIABILITY/ DISCLAIMER OF WARRANTIES:
-            <br>
-            <br>
-            In the event that you fail to perform your obligations under these Terms and Conditions, Paparazzi
-            Games, Inc. DBA BITCYCLUB TRIVIA APP.
-            <br>
-            <br>
-            In accordance with these Terms and Conditions and applicable law, you are responsible. Please note that
-            Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP content and services are provided as-is, without
-            warranties, conditions, or guarantees as to their accuracy, quality, or suitability for a particular
-            purpose. Application and Services cannot be guaranteed to operate error-free, to be reliable, or to be
-            uninterrupted by the Company. The Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP user understands and
-            agrees that we are not responsible for: failures, interruptions, errors, or delays related to the use of
-            the Service. It is possible that the equipment, software, and internet connections could malfunction. As
-            a result of your actions, it is also possible that malicious software could be installed or found in the
-            software of Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP, leading to possible claims, damages,
-            liabilities, liabilities, expenses, or debts. Should any force majeure circumstances (i.e. extraordinary
-            or force majeure events) arise and remain beyond the control of you or Paparazzi Games, Inc. DBA
-            BITCYCLUB TRIVIA APP.
-
-            <br>
-            <br><br>
-            <br>
-
-            COMPENSATION:
-            <br>
-            <br>
-            To the extent permitted by applicable law, you agree to protect, release, and indemnify Paparazzi Games,
-            inc DBA BITCYCLUB TRIVIA APP from and against any claims, damages, obligations, costs or debts, and
-            costs (including, but not limited to, attorneys' fees, fines, or penalties imposed by any regulatory
-            authority) arising from your access to the service. We welcome any feedback or submissions you provide
-            regarding Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP's violation of any term of these terms; or any
-            violation of any law, regulation, or order; or your violation of any third party's rights.
-
-            <br>
-            <br><br>
-            <br>
-
-            FORCE MAJEURE:
-            <br>
-            <br>
-            The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP shall not be responsible for any delays,
-            non-performance, or service interruption that arises directly, indirectly, or for any reason beyond the
-            control of the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP, including, but not limited to, the
-            following. We will not be held responsible for any delay or refusal caused by military or civil
-            authorities, acts of terrorism, civil unrest, war, strikes or other labor disputes, fires, interruptions
-            in the provision of telecommunications services or Internet access or malfunctions of equipment and/or
-            software. Other disasters or anything else that or anything else that is beyond our reasonable control
-            and does not affect the validity and enforceability of any other provisions prediction BITCY COIN FEE.
-            For all transactions conducted between users, Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP retains a
-            3% inner BITCY COIN fee.
-
-            <br>
-            <br><br>
-            <br>
-
-            APPLICABLE LAW AND DISPUTE RESOLUTION:
-            <br>
-            <br>
-            As a result, this User Agreement shall be governed by, construed, and enforced in accordance with the
-            laws of and shall be construed as an agreement entered into under the laws of the State of New York. In
-            the
-            <br>
-            <br>
-            event of a dispute over the issues set forth herein, the parties will use all reasonable means to
-            resolve it. Any dispute arising out of or in connection with the User Agreement will be referred to the
-            appropriate court if the parties are unable to arrive at an agreement through negotiations within 30
-            (thirty) calendar days.
-
-            <br>
-            <br><br>
-            <br>
-
-            CHANGES TO THE AGREEMENT:
-            <br>
-            <br>
-            We, Paparazzi Games, inc. DBA BITCYCLUB TRIVIA APP, reserve the right to unilaterally amend this
-            Agreement. All of the modifications are effective after three (three) calendar days from the date of
-            publication of the new versions of the relevant documents in the Paparazzi Games, inc DBA BITCYCLUB
-            TRIVIA APP application annex. In the event that the user does not agree to the new version of the Terms
-            of Use, he or she must cease using the Application.
-
-            <br>
-            <br><br>
-            <br>
-
-            FINAL PROVISIONS:
-            <br>
-            <br>
-            This Agreement continues to apply until either you or Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP
-            terminates it. These Terms may be terminated by the Company at any time without prior notice and without
-            explanation. Any issues that are not covered by these Terms will be governed by the applicable law. If
-            this Agreement is available in more than one language, the English version shall prevail.
-            <br>
-            <br><br>
-            <br>
-
-
-            Note: PAPARAZZI GAMES, INC DBA BITCYCLUB is not affiliated with Apple, Inc.
-
-            &ZeroWidthSpace;<br>
-            <br><br>
-            <br>
-            IMPORTANT -- READ CAREFULLY:
-            <br>
-            <br>
-            These Telephone Communications Terms (“Terms”) constitute the terms and conditions applicable to
-            communications from Paparazzi Games, Inc. (“Paparazzi Games, Inc. DBA BitcyClub,” “we,” or “us”)
-            regarding product and service offers and promotions from Paparazzi Games, Inc. (“Paparazzi Games,
-            Inc.”), and among other things, REQUIRES YOU TO ARBITRATE ANY DISPUTES YOU HAVE WITH US ON AN INDIVIDUAL
-            BASIS.
-            <br>
-            <br>
-            Call Recording and Monitoring.
-            <br>
-            <br>
-            You acknowledge that telephone calls to, from, or on behalf of Paparazzi Games, Inc DBA BitcyClub., its
-            agents, may be monitored and recorded and you agree to such monitoring and recording.
-            <br>
-            <br>
-            Providing Telephone Numbers and Other Contact Information.
-            <br>
-            <br>
-            You verify that any contact information provided to Paparazzi Games, Inc DBA BitcyClub., including, but
-            not limited to, your name, mailing address, email address, your residential or business telephone
-            number(s), and/or your mobile telephone number(s), is true and accurate. You verify that you are the
-            current subscriber or owner of any telephone number that you provide. You are strictly prohibited from
-            providing a phone number that is not your own. Should any of your contact information change, including
-            ownership of your telephone numbers, you agree to immediately notify us before the change goes into
-            effect by replying STOP to any text message you receive from us or by calling us at +(1) <a
-              href="tel:212-248-4452">212-248-4452</a>
-            <br>
-            <br>
-            Your Consent to Receive Automated Calls/Texts.
-            <br>
-            <br>
-            You acknowledge that by voluntarily providing your telephone number(s), you expressly agree to receive
-            artificial voices, prerecorded voice messages, and/or autodialed calls and text messages (such as SMS,
-            MMS, or successor protocols or technologies) from or on behalf of Paparazzi Games, Inc., regarding your
-            inquiry, any resulting services or transaction, and/or your relationship with Paparazzi Games, Inc DBA
-            BitcyClub., and, if you opt-in, marketing communications, including product and service offers, quotes,
-            and promotions from Paparazzi Games, Inc DBA BitcyClub. products and services. You acknowledge that
-            automated calls or text messages may be made to your telephone number(s) even if your telephone
-            number(s) is registered on any state or federal Do Not Call list. You agree to receive automated calls
-            and text messages from Paparazzi Games, Inc DBA BitcyClub., even if you otherwise terminate your
-            relationship with Paparazzi Games, Inc DBA BitcyClub., except if you opt-out following the methods below
-            (see below). You understand that you do not have to agree to receive automated promotional calls/texts
-            as a condition of purchasing any goods or services. If you do not consent, you may call us at +(1) <a
-              href="tel:212-248-4452">212-248-4452</a> to further inquire about Paparazzi Games, Inc DBA BitcyClub.
-            products and services. To opt-out, please see the Opt-Out Instructions below.
-            <br>
-            <br>
-            Opt-Out Instructions.
-            <br>
-            <br>
-            Your consent to receive automated calls and texts is completely voluntary. You may opt-out at any time.
-            To opt-out of text messages from Paparazzi Games, Inc DBA BitcyClub., reply STOP to any text message you
-            receive from us. You may also text HELP for help. You acknowledge and agree to accept a final text
-            message confirming your opt-out. We may use different shortcodes for different messaging purposes, so
-            texting STOP to one shortcode will not effectuate a stop request for all shortcodes to which you are
-            subscribed. If you would like to stop messages from multiple shortcodes, reply STOP to each shortcode to
-            which you would like to unsubscribe. To opt-out of automated voice calls (not text messages) from
-            Paparazzi Games, Inc DBA BitcyClub., you must call us at +(1) <a href="tel:212-248-4452">212-248-4452</a>
-            and
-            notify us that you are revoking your consent to receive
-            automated calls, and the specific phone number(s) for which you wish to stop automated calls. It is your
-            sole responsibility to notify us if you no longer want to receive automated calls or text messages. You
-            waive any rights to bring claims for unauthorized or undesired calls or text messages by failing to
-            opt-out immediately or by failing to follow these instructions. Please allow up to thirty (30) days to
-            process any opt-out request. Please note that if you opt-out of automated calls or text messages, we
-            reserve the right to make non-automated calls to you. It is possible that third parties, including
-            Paparazzi Games, Inc DBA BitcyClub., may have your contact information and you may continue to receive
-            communications from these third parties despite an opt-out request made to Paparazzi Games, Inc DBA
-            BitcyClub.. We are not responsible for unwanted contact from third parties. Please contact third parties
-            directly to inform them of your communication preferences.
-            <br>
-            <br>
-            Fees and Charges.
-            <br>
-            <br>
-            There is no fee to receive automated marketing telephone calls or text messages from Paparazzi Games,
-            Inc DBA BitcyClub. However, you may incur a charge for these calls or text messages from your telephone
-            carrier, which is your sole responsibility. Message and data rates may apply. Check your telephone plan
-            and contact your carrier for details. You represent and warrant that you are authorized to incur such
-            charges and acknowledge that Paparazzi Games, Inc.is not responsible for such charges.
-            <br>
-            <br>
-            Unauthorized Use of Your Telephone Device.
-            <br>
-            <br>
-            You must notify Paparazzi Games, Inc DBA BitcyClub. immediately of any breach of security or
-            unauthorized use of your telephone device. Although Paparazzi Games, Inc DBA BitcyClub. will not be
-            liable for losses caused by any unauthorized use of your telephone device, you may be liable for our
-            losses due to such unauthorized use.
-            <br>
-            <br>
-            Your Indemnification to Us.
-            <br>
-            <br>
-            You agree to indemnify Paparazzi Games, Inc DBA BitcyClub. for any privacy, tort or other claims,
-            including claims under the Federal Telephone Consumer Protection Act or any state law equivalents,
-            including claims relating to your voluntary provision of a telephone number that is not owned by you
-            and/or your failure to notify us of any changes in your contact information, including telephone number.
-            You agree to indemnify, defend and hold us harmless from and against any and all such claims, losses,
-            <br>
-            <br>
-            liabilities, costs and expenses (including reasonable aforneys’ fees). We shall have the exclusive right
-            to choose counsel, at your expense, to defend any such claims.
-            <br>
-            <br>
-            Release of Claims.
-            <br>
-            <br>
-            You hereby release Paparazzi Games DBA BitcyClub, Inc.from any and all claims, causes of action,
-            lawsuits, injuries, damages, losses, liabilities or other harms resulting from or relating to telephone
-            calls or text messages, including without limitation any claims, causes of action, or lawsuits based on
-            any alleged violations of the law (including, without limitation, the Telephone Consumer Protection Act,
-            Truth in Caller ID Act, Telemarketing Sales Rule, Fair Debt Collection Practices Act, or any similar
-            state and local acts or statutes, and any federal or state tort or consumer protection laws).
-            <br>
-            <br>
-            General.
-            <br>
-            <br>
-            You are responsible for obtaining and maintaining all telephone devices and other equipment and soiware,
-            and all internet service provider, mobile service, and other services needed to receive calls and text
-            messages. Text messaging may only be available with select carriers with compatible handsets. Your
-            obligations under these Terms will survive termination of your rela?onship with Paparazzi Games, Inc DBA
-            BitcyClub.
-            <br>
-            <br>
-            ARBITRATION.
-            <br>
-            <br>
-            Except for disputes that qualify for small claims court, all disputes arising out of or related to these
-            Terms or any aspect of the relationship between us (including any communications between us), whether
-            based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, will be resolved
-            through final and binding arbitra?on before a neutral arbitrator instead of in a court by a judge or
-            jury. Such disputes include, without limitation, disputes arising out of or relating to interpreta?on or
-            applica?on of this arbitra?on provision, including the enforceability, revocability, or validity of the
-            arbitration provision or any portion of the arbitration provision. All such disputes will be decided by
-            an arbitrator and not by a court or judge. You agree that we are each waiving the right to trial by a
-            jury. The arbitration will be administered by the American Arbitration Association (AAA) under its
-            Consumer Arbitration Rules, as amended by these Terms. The arbitrator will conduct hearings, if any, by
-            teleconference or videoconference, rather than by personal appearances, unless the arbitrator determines
-            upon request by you or by us that an in-person hearing is appropriate. Any in-person appearances will be
-            held at a location that is reasonably convenient to both parties with due consideration of their ability
-            to travel and other relevant circumstances. If the parties are unable to agree on a location, the AAA or
-            the arbitrator will determine the location. The arbitrator’s decision will follow the provisions set
-            forth in these Terms and will be final and binding. The arbitrator will have authority to award
-            temporary, interim or permanent injunctive relief or relief providing for specific performance under
-            these Terms, but only to the extent necessary to provide relief warranted by the individual claim before
-            the arbitrator. The award rendered by the arbitrator may be confirmed and enforced in any court having
-            jurisdiction thereof. You may opt-out of this agreement to arbitrate by emailing us at
-            PaparazziGames@Bitcy.Club with your first name, last name, phone number, and address,
-            <br>
-            <br>
-            within thirty (30) days of accepting this agreement to arbitrate, with a statement that you decline this
-            arbitration agreement. Notwithstanding any of the foregoing, nothing in these Terms will prevent you
-            from bringing issues to the attention of federal, state, or local agencies and, if the law allows, they
-            can seek relief against us for you. TO THE EXTENT PERMITTED BY LAW, YOU AGREE THAT NO LAWSUIT,
-            ARBITRATION, OR ANY OTHER LEGAL PROCEEDING CONNECTED WITH OR ARISING OUT OF THESE TERMS SHALL BE BROUGHT
-            OR FILED BY YOU MORE THAN ONE (1) YEAR AFTER THE INCIDENT GIVING RISE TO THE CLAIM OCCURRED. IN
-            ADDITION, TO THE EXTENT PERMITTED BY LAW, ANY SUCH LEGAL PROCEEDING SHALL NOT BE HEARD BEFORE A JURY,
-            AND EACH PARTY GIVES UP ANY RIGHT TO A JURY TRIAL.
-            <br>
-            <br>
-            CLASS WAIVER.
-            <br>
-            <br>
-            TO THE EXTENT PERMITTED BY LAW, YOU AGREE THAT ANY ARBITRATION UNDER THESE TERMS WILL TAKE PLACE ON AN
-            INDIVIDUAL BASIS; CLASS ARBITRATIONS AND CLASS ACTIONS ARE NOT PERMITTED AND YOU ARE AGREEING TO GIVE UP
-            THE ABILITY TO PARTICIPATE IN A CLASS ACTION. YOU WILL NOT BRING ANY CLASS ACTION LAWSUIT AGAINST
-            Paparazzi Games; Inc DBA BitcyClub. OR BE A REPRESENTATIVE PLAINTIFF OR PLAINTIFF CLASS MEMBER IN ANY
-            SUCH LAWSUIT.
-
-            &ZeroWidthSpace;<br>
-            <br><br>
-            <br>
-            <span چلاسس>
-
-              Paparazzi Games, Inc dba BitcyClub
-            </span>
-            <br>
-            <br>
-            Tell: +(1) <a href="tel:212-248-4452">212-248-4452</a>
-            <br>
-            <br>
-            Email: PaparazziGames@Bitcy.Club
+          <div class="px-6 py-1">
+            <div class=" text-black dark:text-white">
+  <div class=" mx-auto px-4 py-1">
+    <!-- <h2 class="text-3xl font-bold mb-8 text-center">&ZeroWidthSpace;</h2> -->
+    
+    <h2 class="text-xl font-bold mb-4">USER AGREEMENT FOR</h2>
+    <h2 class="text-2xl font-bold mb-4">PAPARAZZI GAMES, INC DBA BITCYCLUB:</h2>
+    
+    <h2 class="text-2xl font-bold mb-4 text-red-600">Apple is not involved in any way with the contest or sweepstakes.</h2>
+    <p class="mb-6">NOTE: PAPARAZZI GAMES, INC DBA BITCYCLUB is not affiliated with Apple, Inc.</p>
+    
+    <div class="flex justify-start mb-6">
+      <p class="font-bold text-red-600">Updated: </p>
+      <p> July / 16 / 2025</p>
+    </div>
+    
+    <p class="mb-6 text-justify">
+      BITCYCLUB TRIVIA APP is brought to you by Paparazzi Games, INC. The following is a User Agreement between you (also referred to as the "User," or "customer") and Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP. It is "Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP"; referred to as "we," "us," and "our''). This User Agreement (''Agreement" or "User Agreement") governs your use of the services provided by Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP described as creating or importing your account, downloading or launching BITCYCLUB APP, using Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP services and such other services that may be offered by Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP from time to time ("Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Services'' or "Services''). By registering for a Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP account BITCYCLUB APP, you agree that you have read and understand this agreement and its conditions, including the Privacy Policy, E-Sign Disclosure and Consent Policy in appendix 2. Upon using Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP or purchasing something from Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP, you agree to be bound by the following terms and conditions. In the event of a discrepancy between this Agreement and any other terms or policies referenced herein, the remainder of this Agreement shall prevail. The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP requires that you carefully read these Terms before accessing or using it. Your access or use of any portion of the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP implies your agreement to these Terms. It is your responsibility to review all the terms of this Agreement before using the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP or using any Services. As a result of these Terms being considered an offer, acceptance is expressly limited to these Terms. The Terms apply to any new features or tools that are added to the current APP. Please refer to this page to view the most recent version of the Terms. We reserve the right to change or replace any part of these Terms by posting updates and/or changes on Paparazzi Games, inc. DBA BITCYCLUB TRIVIA APP You are responsible for periodically reviewing this page for any updates. By continuing to use or access the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP following the posting of any changes, you are deemed to have agreed to the changes.
+    </p>
+    
+    <h2 class="text-2xl font-bold mb-4">ABOUT:</h2>
+    <p class="mb-4">
+      Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP allows you to study and observe the Bitcoin price chart. As a user of the Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP, the user first learns, then practices the information gained, and then competes against other users, defending his position regarding the direction in which the price of bitcoin will move (up or down).
+    </p>
+    <p class="mb-4">
+      Two groups of users are involved in the process. The first group consists of users who believe that Bitcoin will increase in price. The second group includes those who believe that the price of Bitcoin will decline.
+    </p>
+    <p class="mb-6">
+      Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP introduced its own token, BITCY, in order to increase interest and motivation among users. This token function is to function as an internal coin of the application. It does not have a financial value outside of the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP. Users have the capability to transfer inner Bitcy tokens between themselves within the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP. A prediction is made using the BITCYCLUB TRIVIA APP inner BITCY coin generated by Paparazzi Games, inc. In the event that the prediction has been correct, the user's Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP will be replenished with a certain amount, depending on the amount invested. Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP users get rewarded for its inner Bitcy token earned through successful predictions. In the same way, users can purchase their inner BITCYCLUB TRIVIA APP coins through the Deposit button, located in Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP home screen. The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP does not profit from sales or purchases of Bitcoin or any other cryptocurrency available on the crypto markets. The Bitcy Tokens held by users are the owners of the tokens. As part of our platform, Bitcy Tokens are used as a form of fictitious money by enabling users to make transactions within the platform.
+    </p>
+    
+    <h2 class="text-2xl font-bold mb-4">KEY ASPECTS:</h2>
+    <ol class="list-decimal pl-6 mb-6 space-y-4">
+      <li>There are no other businesses associated with BITCYCLUB TRIVIA APP, which is the sole domain of Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP.</li>
+      <li>BITCYCLUB TRIVIA APP does not engage in financial transactions or crypto transactions using Binance or Blockchain, or any other third-party platforms or financial institutions. The Bitcy Token is not distributed through any other platform and is not registered as a smart contract on Binance or Blockchain.</li>
+      <li>Paparazzi Games, inc DBA BITCYCLUB APP is not connected to any crypto-related applications, but functions independently.</li>
+      <li>The functionality of Paparazzi Games, Inc. DBA BITCYCLUB TRIVIA APP does not permit customers to purchase Bitcoin or any other crypto currency via crypto markets or crypto world.</li>
+      <li>The features of Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP is not connected to the features of the crypto wallet, since the application is a version of the educational platform consisting of a practical forecasting process.</li>
+      <li>All policies and rules for the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP application are in compliance with all prescribed standards, and the developers take full responsibility for the compliance. Apple Store administration is not responsible for the activities undertaken within the application, nor for its interaction with users.</li>
+      <li>We may amend or modify this Agreement at any time by posting the revised agreement on the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP and/or providing a copy to you (a "Revised Agreement"). The Revised Agreement shall be effective as of the time it is posted but will not apply retroactively. Your continued use of the Services after the posting of a Revised Agreement constitutes your acceptance of such Revised Agreement. If you do not agree with any such modification, your sole and exclusive remedy is to terminate your use of the Services and close your account.</li>
+    </ol>
+    
+    <h3 class="text-2xl font-bold mb-4 text-red-600">Messenger Disclaimer:</h3>
+    <p class="font-bold mb-2">BitcyClub In-App Messenger</p>
+    <p class="mb-4">
+      The BitcyClub in-app messenger is intended for casual gameplay interactions and skill-sharing among users. Messages exchanged via the messenger are not encrypted and should not be considered private. BitcyClub does not actively monitor or review user messages. However, we reserve the right to review any messages flagged for containing violent language or behavior to uphold community safety.
+    </p>
+    <p class="mb-4 font-bold">
+      We strongly discourage the sharing of any sensitive, personal, or confidential information via the messenger. BitcyClub shall not be held responsible for any consequences arising from the misuse of this feature, including unauthorized data sharing or breaches.
+    </p>
+    <p class="mb-6 font-bold">
+      By using the messenger feature, you acknowledge and accept these terms, including the associated risks.
+    </p>
+    
+    <p class="font-bold mb-2">Behavioral Guidelines:</p>
+    <p class="mb-4">
+      It is imperative to emphasize that the use of the inner messenger chat is subject to strict adherence to our community guidelines. Any engagement in disrespectful, violent, racist, or otherwise inappropriate behavior within the chat platform is expressly prohibited. Users found in violation of these guidelines, including instances of harassment, will face expulsion from the Bitcyclub app membership, with no option for reinstatement.
+    </p>
+    
+    <p class="font-bold mb-2">Monetary Transactions:</p>
+    <p class="mb-4">
+      The inner chat system also introduces a distinctive functionality wherein members may accrue Bitcy coins when contacted by other members. Users have the discretion to set charges for a 24-hour chat period. Notably, 97% of the transaction amount will be credited to the member's Bitcy wallet, available for withdrawal upon request. The remaining 3% will be levied as a service fee to the Bitcyclub administration and directed to the admin wallet.
+    </p>
+    
+    <p class="font-bold mb-2 text-red-600">Legal Consequences:</p>
+    <p class="mb-6">
+      These terms regarding the use of the inner messenger chat are integral to Bitcyclub's commitment to maintaining a secure, respectful, and compliant environment. The enforcement of these terms is crucial in upholding the standards of acceptable user behavior within the Bitcyclub community. Users expressly consent to these conditions and acknowledge that any breach may result in the termination of their Bitcyclub app membership without the possibility of reinstatement.
+    </p>
+    
+    <h2 class="text-2xl font-bold mb-4">DISPUTE RESOLUTION:</h2>
+    <p class="mb-6">
+      NOTE: SECTION 7 (CUSTOMER FEEDBACK, QUERIES, COMPLAINTS, AND DISPUTE RESOLUTION) AND APPENDIX 5 CONTAIN TERMS OUTLINING HOW TO RESOLVE DISPUTES BETWEEN YOU AND PAPARAZZI GAMES INC. DBA BITCYCLUB TRIVIA APP. APPENDIX 5 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER.
+      NO INVESTMENT ADVICE OR BROKERAGE
+      The Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP does not offer investment advice, tax advice, or legal advice, and your reliance on such advice is solely your responsibility. It is important to note that Paparazzi Games, Inc DBA BITCYCLUB TRIVIA APP is not registered with the US Securities and Exchange Commission and does not offer securities services in the United States or to residents of the US.
+    </p>
+    
+    <h2 class="text-2xl font-bold mb-4">ELIGIBILITY AND ACCOUNT:</h2>
+    <ol class="list-decimal pl-6 mb-6 space-y-4">
+      <li>You must be 18 years of age or older in order to participate in the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Services. Depending on your location and other factors, certain features may not be available to you.</li>
+      <li>It is mandatory to create an account with Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP in order to make use of the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Services (the " Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account"). To use the services provided by Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP, you must undergo certain verification procedures. By registering or using Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account you agree and represent that you have created your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account and you will use your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account only for yourself, and not on behalf of any third party, unless you have obtained prior written approval from Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP You are fully responsible for all activity that occurs under your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account. We may, in our sole discretion, refuse to open a Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account, suspend or terminate any Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account.</li>
+      <li>Permission to access, process, and store your personal information. At the time of registering for your Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP Account, or at any other time deemed necessary by Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP, you agree to provide the information we request for the purpose of identifying you. You confirm that the information you provide us is accurate and authentic by providing us with this information or any other information that may be required. We request that you keep us informed if any of the information you provide changes. By providing us with your personal information, you acknowledge and agree that your information will be shared with credit reference agencies, fraud prevention agencies and financial crime agencies, and that these agencies are authorized to respond to our inquiries. Your credit rating should not be adversely affected by this identity check. Please be advised that we reserve the right to monitor, review, retain, and/or disclose any information as necessary to comply with applicable laws, regulations, sanctions programs, legal processes or governmental requests. Further, you hereby authorize your wireless operator (e.g., AT&T, T-Mobile, US Cellular, Verizon or any other branded mobile service provider) to use your mobile number, name, address, email, network status, customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI) and other subscriber status details, if available, solely to allow verification of your identity and to compare information you have provided to Paparazzi Games, inc DBA BITCYCLUB</li>
+      <li>The Paparazzi Games, Inc. application BITCYCLUB TRIVIA by using the BITCYCLUB Mobile App, users are able to access services directly.</li>
+      <li>It is possible that services may become degraded or unavailable during periods of high volatility and high traffic. These conditions could result in significant delays in support response times. Despite our best efforts, we cannot guarantee that the Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP will be available without interruption or that orders will be executed, accepted, recorded, or remain open. We will not be held responsible for any losses arising out of delays in processing predictions, inability to execute predictions, or lack of timely response from Paparazzi Games, inc DBA BITCYCLUB TRIVIA APP customer support.</li>
+      <li>Apple, the Apple logo, iTunes, and the iPhone are all trademarks of Apple Inc, registered in the U.S. and other countries. The Apple App Store is a service mark owned by Apple, Inc. BITCYCLUB TRIVIA APP is not owned by, affiliated with, or sponsored by Apple, Inc.</li>
+    </ol>
+    
+    <!-- Continue with the rest of the content in similar fashion -->
+    
+    <div class="mt-12">
+      <h2 class="text-2xl font-bold mb-4">Paparazzi Games, Inc</h2>
+      <p>DBA BitcyClub</p>
+      <p>Tell: +(1) 437-230-7214</p>
+      <p>Email: <a href="mailto:support@bitcy.club" class="text-blue-600 dark:text-blue-400">support@bitcy.club</a></p>
+    </div>
+  </div>
+</div>
           </div>
+
+        
+
         </div>
 
 
