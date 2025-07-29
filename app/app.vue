@@ -2503,7 +2503,7 @@
     </div>
     <footer
       class="lg:px-[150px] px-10 w-[100%] border-t border-gray-200 dark:border-transperrent py-6 mx-auto lg:flex block justify-between z-10 lg:h-[105px] h-auto items-center "
-      style="background-image: url('/vector.svg'); background-position: center; background-size: cover; background-color: rgb(255 255 255 / 9%);">
+      style="background-image: url('/vector.png'); background-position: center; background-size: cover; background-color: rgb(255 255 255 / 9%);">
       <div class="lg:w-1/2 w-full">
         <ul
           class="flex list-none gap-5 lg:ml-[35px] mx-auto lg:justify-start justify-center font-poppins lh:text-[17px] text-[14px] font-normal align-center">
